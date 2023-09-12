@@ -1,4 +1,5 @@
-{ // this package.json file need to update a little.
+// this package.json file need to update a little.
+{ 
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
